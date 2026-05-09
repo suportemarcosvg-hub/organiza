@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "installerUrl": "https://github.com/suportemarcosvg-hub/organiza/releases/latest",
+  "releasePageUrl": "https://github.com/suportemarcosvg-hub/organiza/releases/latest",
+  "changelog": [
+    "Publicacao inicial do Organiza",
+    "Tela Sobre com verificacao de atualizacao",
+    "Melhorias de interface"
+  ]
+}
